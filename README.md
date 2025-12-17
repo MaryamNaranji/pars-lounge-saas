@@ -20,4 +20,5 @@ Next.js 14 + TypeScript + Tailwind + Stripe + Firebase + NextAuth.
 - [ ] White-label domains  
 - [ ] Staff roles  
 
+
 Feel free to fork and PR!
